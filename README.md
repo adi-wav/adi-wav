@@ -1,4 +1,3 @@
-# README.md
 <img src="https://github-hero-readme.vercel.app/api?username=adi-wav&linkedin=adi-wav&twitter=inin&description=Web%20Developer%20|%20Competitive%20%20Programmer" width="100%">
 
 </h1>
