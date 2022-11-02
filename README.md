@@ -35,7 +35,7 @@ Hey there!
 ### Earned Badges
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/30%20Days%20of%20Google%20Cloud%20%28Profile%29_j6UhPYG%20%281%29_2icCnpP.png" width="150" height="100" />
 <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='100' height='100'>
-[![@adi_wav's Holopin board](https://holopin.me/adi_wav)](https://holopin.io/@adi_wav)
+(https://holopin.me/adi_wav)](https://holopin.io/@adi_wav)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adi-wav&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
